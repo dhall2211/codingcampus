@@ -118,7 +118,7 @@ int index= 0;
                  result = first.compareTo(second);
                 if(temp < result) {
                     String lastName = theBeatles[i];
-                    System.out.println(firstName);
+                    //System.out.println(firstName);
 
                 }
 
